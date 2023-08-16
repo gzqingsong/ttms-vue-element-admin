@@ -1,5 +1,5 @@
 module.exports = {
-  title: '教培管理系统',
+  title: '电子签章系统',
 
   /**
    * @type {boolean} true | false
